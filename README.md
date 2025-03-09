@@ -1,6 +1,9 @@
 # **📌 MedilinkSA Module for OpenEMR**
 **Seamlessly integrate MedilinkSA with OpenEMR for medical aid verification and claims processing.**  
 
+![Claim Status Graph](https://github.com/sivehost/openemr-medilinksa/blob/main/Graphs1.png?raw=true)
+
+
 This module connects OpenEMR to the **MedilinkSA switch**, enabling healthcare providers to:  
 ✔ **Submit medical claims**  
 ✔ **Trace claim statuses**  
