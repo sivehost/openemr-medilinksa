@@ -119,3 +119,4 @@ For help, visit:
 
 ### **📢 Ready to Automate Your Medical Billing?**
 ➡ **[Download the latest version](https://github.com/sivehost/openemr-medilinksa/releases)** and streamline your workflow today! 🚀  
+

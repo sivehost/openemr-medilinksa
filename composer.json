@@ -1,0 +1,30 @@
+{
+  "name": "sivehost/openemr-medilinksa",
+  "description": "OpenEMR Custom Module MedilinkSA switch connector",
+  "type": "openemr-module",
+  "license": "GPL-3.0",
+  "authors": [
+    {
+      "name": "Sive.Host",
+      "email": "randd@sive.host",
+      "role": "Developer"
+    }
+  ],
+  "keywords": ["openemr", "openemr-module", "API", "switch", "medilinksa"],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "OpenEMR\\Modules\\MedilinkSA\\": "src/"
+    }
+  },
+  "require": {
+    "openemr/oe-module-installer-plugin": "^0.1.0",
+    "php": ">=8.3",
+    "symfony/event-dispatcher": "^4.4.0",
+    "nyholm/psr7": "^1.4"
+  },
+  "conflict": {
+    "openemr/openemr": "<7.0.0"
+  }
+}
+
