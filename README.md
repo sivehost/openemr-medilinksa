@@ -69,7 +69,7 @@ Additionally, it registers **entries in `background_services`** to enable:
 4. Login to the OpenEMR system, In OpenEMR go to  **Modules -> Manage Modules -> Unregistered tab** and click install on the MedilinkSA row, then go to registered and click Install and then Enable, select. It should now appear under Modules menu.
 
 ### **Method 2: Composer Installation (Packagist)**
-If the module is published on **Packagist**, install via Composer:
+The module is published on **Packagist**, install via Composer:
 ```bash
 composer require sivehost/openemr-medilinksa
 ```
