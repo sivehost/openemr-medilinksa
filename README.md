@@ -64,8 +64,8 @@ Additionally, it registers **entries in `background_services`** to enable:
 ## **📥 Installation**
 ### **Method 1: Manual Upload**
 1. **Download the latest release** from [GitHub Releases](https://github.com/sivehost/openemr-medilinksa). Or inside the **interface/modules/custom-modules/ ** directory, do git clone https://github.com/sivehost/openemr-medilinksa.git then mv openemr-medilinksa to MedilinkSA, then skip #3 below.
-2. Go to **interface/modules/custom-modules/ ** in OpenEMR directory. 
-3. Then **Upload Module Zip file into the OpenEMR directory** and select the ZIP file called openemr-medilinksa, extract its contents into MedilinkSA.
+2. Go to **interface/modules/custom-modules/ ** in OpenEMR directory, create a new folder MedilinkSA. 
+3. Then **Upload openemr-medilinksa Zip file contents into the MedilinkSA directory** and select the ZIP file called openemr-medilinksa, extract its contents into MedilinkSA directory.
 4. Login to the OpenEMR system, In OpenEMR go to  **Modules -> Manage Modules -> Unregistered tab** and click install on the MedilinkSA row, then go to registered and click Install and then Enable, select. It should now appear under Modules menu.
 
 ### **Method 2: Composer Installation (Packagist)**
