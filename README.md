@@ -17,7 +17,7 @@ This module connects OpenEMR to the **MedilinkSA switch**, enabling healthcare p
 
 ## **🚀 Getting Started**
 ### **Step 1: Obtain API Credentials**
-To use this module, **register at [MedilinkSA.com](https://medilinksa.co.za)** to obtain:  
+To use this module, **register at [MedilinkSA.co.za](https://medilinksa.co.za)** to obtain:  
 - **Client ID**
 - **Username**
 - **Password**
