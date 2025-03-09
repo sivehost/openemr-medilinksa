@@ -3,6 +3,15 @@
 
 ![Claim Status Graph](https://github.com/sivehost/openemr-medilinksa/blob/main/Graphs1.png?raw=true)
 
+![Invoice PDF Export](https://github.com/sivehost/openemr-medilinksa/blob/main/invoicePDF.png?raw=true)
+
+![Invoice Status Graph](https://github.com/sivehost/openemr-medilinksa/blob/main/Graphs2.png?raw=true)
+
+![Claims page](https://github.com/sivehost/openemr-medilinksa/blob/main/claims.png?raw=true)
+
+![Invoices page](https://github.com/sivehost/openemr-medilinksa/blob/main/invoices.png?raw=true)
+
+![Config page](https://github.com/sivehost/openemr-medilinksa/blob/main/config.png?raw=true)
 
 This module connects OpenEMR to the **MedilinkSA switch**, enabling healthcare providers to:  
 ✔ **Submit medical claims**  
